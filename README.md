@@ -33,7 +33,7 @@ modeled, and visualized using Power BI to generate actionable insights.
 
 ## 📸 Dashboard Preview
 ![Overview](Screenshot%202026-01-20%20192257.png)
-![Category Sales]()
+![Category Sales](Screenshot%202026-01-20%20192335.png)
 ![Yearly Trend]()
 
 ## 🚀 Key Insights
