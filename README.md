@@ -42,7 +42,7 @@ modeled, and visualized using Power BI to generate actionable insights.
 - Seasonal trends were observed in monthly sales
 
 ## 📂 Project Files
-- `Excel/amazon_sales_csv.xlsx` – Raw dataset
+- `Excel/amazon_sales_data_csv.xlsx` – Raw dataset
 - `powerbi/amazon_sales_dashboard.pbix` – Power BI dashboard
 
 ## 👤 Author
