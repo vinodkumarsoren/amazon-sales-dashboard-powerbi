@@ -32,7 +32,7 @@ modeled, and visualized using Power BI to generate actionable insights.
 - Monthly trend analysis
 
 ## 📸 Dashboard Preview
-![Overview]()
+![Overview](Screenshot%202026-01-20%20192257.png)
 ![Category Sales]()
 ![Yearly Trend]()
 
