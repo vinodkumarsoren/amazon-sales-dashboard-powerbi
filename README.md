@@ -34,7 +34,7 @@ modeled, and visualized using Power BI to generate actionable insights.
 ## 📸 Dashboard Preview
 ![Overview](Screenshot%202026-01-20%20192257.png)
 ![Category Sales](Screenshot%202026-01-20%20192335.png)
-![Yearly Trend]()
+![Product Trend]()
 
 ## 🚀 Key Insights
 - Sales showed significant growth in 2020 compared to 2019
