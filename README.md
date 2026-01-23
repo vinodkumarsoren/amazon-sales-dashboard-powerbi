@@ -17,8 +17,7 @@ modeled, and visualized using Power BI to generate actionable insights.
 ## 🛠 Tools & Technologies
 - Microsoft Power BI
 - Microsoft Excel
-- Power Query
-- DAX (basic measures)
+- ChatGpt
 
 ## 📁 Dataset
 - Source: Publicly available Amazon sales dataset (downloaded online)
